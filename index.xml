@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>https://yuxin-shou.github.io/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yuxin-shou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://yuxin-shou.github.io/page/about/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuxin-shou.github.io/page/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Yuxin (Dana) Shou, an undergraduate student at Peking University studying Artificial Intelligence. I&amp;rsquo;m particularly interested in the alignment between AI technology and human values — specifically, how we can leverage AI for social good. To me, AI is more than a technological shift; it is fundamentally reshaping how we think, create, communicate, and understand the world.&lt;/p&gt;&#xA;&lt;p&gt;Besides pursuing my studies and career, in my free time I enjoy reading books on psychology and economics. I find it fascinating to explore why we feel and think the way we do, and why society functions the way it does. I also love traveling, playing the piano, and participating in all kinds of sports. Recently, I started playing squash :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Supply-Side Economics Reassessed: Incentives, Growth and Disparities</title>
+      <link>https://yuxin-shou.github.io/blog/supply-side-economics-reassessed/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuxin-shou.github.io/blog/supply-side-economics-reassessed/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Essay for UCLA Econ 165&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;July 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Supply-side economics, particularly as popularized by Art Laffer, has played a significant role in shaping tax policy worldwide. The theory posits that lower tax rates can boost productivity and spur economic growth by increasing incentives to work, produce, and invest.&lt;/p&gt;&#xA;&lt;p&gt;While this indeed led to some positive changes in tax policies across the globe, the argument that supply-side economics, on net, has improved both economics and the world for the better is flawed. This is due to the theory&amp;rsquo;s tendency to prioritize broad economic growth and incentives, often at the expense of specific social and economic needs. This oversight can lead to unintended consequences that undermine sustainable economic progress.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

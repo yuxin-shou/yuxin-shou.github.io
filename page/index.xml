@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Home</title>
+    <link>https://yuxin-shou.github.io/page/</link>
+    <description>Recent content in Pages on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yuxin-shou.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://yuxin-shou.github.io/page/about/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuxin-shou.github.io/page/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Yuxin (Dana) Shou, an undergraduate student at Peking University studying Artificial Intelligence. I&amp;rsquo;m particularly interested in the alignment between AI technology and human values — specifically, how we can leverage AI for social good. To me, AI is more than a technological shift; it is fundamentally reshaping how we think, create, communicate, and understand the world.&lt;/p&gt;&#xA;&lt;p&gt;Besides pursuing my studies and career, in my free time I enjoy reading books on psychology and economics. I find it fascinating to explore why we feel and think the way we do, and why society functions the way it does. I also love traveling, playing the piano, and participating in all kinds of sports. Recently, I started playing squash :)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
